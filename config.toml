@@ -60,16 +60,10 @@ identifier = "about"
 name = "About Me"
 title = "About"
 url = "/"
-
-#[[menu.main]]
-#identifier = "ci-cd"
-#name = "Continues Intergration"
-#title = "Continues Intergration"
-#url = "/ci"
 #
-#[[menu.main]]
-#  identifier = "kubernetes"
-#  name = "Kubernetes"
-#  title = "kubernetes"
-#  url = "/kubernetes"
+[[menu.main]]
+  identifier = "kubernetes"
+  name = "Kubernetes"
+  title = "kubernetes"
+  url = "/kubernetes"
 
