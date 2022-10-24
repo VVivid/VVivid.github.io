@@ -32,7 +32,7 @@ yes, and there are many disadvantages as well. One of the biggest issue is laten
 
 ![latency](/svg/latency.png)
 
-The second one is complexity, so when you have a lot of services running it will be hard for you to manage and monitoring, and sometime a single service update could effect other services that depend on it, so you will need a better tooling for that. The last one is development team size has to grow in other to manages all of those services.
+The second one is complexity, so when you have a lot of services running it will be hard for you to manage and monitoring all your services, and sometime a single service update could effect other services that depend on it, so you will need a better tooling for that. The last one is development team size has to grow in other to manages all of those services.
 
 For this series we will have a peak into most commonly use communication technique between services like gRPC, Messaging Queue and event base communication. We will also looking into container technologies like Docker and how we could use it to deploy our microservices and to advance where Kubernetes come into be more useful when we have a lots of services and deploying starting to get more difficult and hard to manage. Also we will start learning more about some infrastructure tools like proxy, load balance and API gateway to secure and isolate our services. Finally, we will also look into some other tools for logging and debugging like Loki, Promtail and Grafana to push to our log system and visualize it on Grafana dashboard.
 
