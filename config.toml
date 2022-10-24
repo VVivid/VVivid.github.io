@@ -60,10 +60,9 @@ identifier = "about"
 name = "About Me"
 title = "About"
 url = "/"
-#
-[[menu.main]]
-  identifier = "kubernetes"
-  name = "Kubernetes"
-  title = "kubernetes"
-  url = "/kubernetes"
 
+[[menu.main]]
+  identifier = "blogs"
+  name = "blogs"
+  title = "blogs"
+  url = "/blogs"
