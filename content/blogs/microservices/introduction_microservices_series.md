@@ -10,7 +10,7 @@ math: false
 toc: false
 ---
 
-If you have follow the tech trend recently you will most likely to encounter the word Microservice and hundreds of blogs are talking about how powerful it is that it starting to sound like a magical hack in the software development world. This blog is no different to the other blogs out there, but beside learning about what microservice is in this series we will also looking into other technologies and concepts that help us build a truly maintainable and scalable microservices architecture.
+If you have follow the tech trend recently you will most likely to encounter the word Microservice and hundreds of blogs are talking about how powerful it is that it's starting to sound like a magical hack in the software development world. This blog is no different to the other blogs out there, but beside learning about what microservice is in this series we will also looking into other technologies and concepts that help us build a truly maintainable and scalable microservices architecture.
 
 ## What really is a Microservice?<br>
 
