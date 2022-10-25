@@ -16,7 +16,7 @@ If you have follow the tech trend recently you will most likely to encounter the
 
 If I could over simplify the meaning of Microservice is that microservice is the way you split all your business logic or the requirements to support your business into multiple services and run it separately either by the same team or multiple team working on different service.
 
-![microservice architecture](/svg/architecture.png)
+![microservice architecture](/svg/architecture1.png)
 
 ## Why would you consider using a Microservice architecture?<br>
 
@@ -30,7 +30,7 @@ The answer is not really because most of the time the system still be working fi
 
 yes, and there are many disadvantages as well. One of the biggest issue is latency, as you need to split your services there will be time where in order to complete a simple task it would requires 2 or 3 services to do it and unlike monolith application these services have to agree on some type of communication and usually requires additional network latency from one service to another.
 
-![latency](/svg/latency.png)
+![latency](/svg/latency1.png)
 
 The second one is complexity, so when you have a lot of services running it will be hard for you to manage and monitoring all your services, and sometime a single service update could effect other services that depend on it, so you will need a better tooling for that. The last one is development team size has to grow in other to manages all of those services.
 
